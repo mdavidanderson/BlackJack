@@ -1,3 +1,6 @@
+/*
+    BlackJack Card Class
+*/
 public class BlackjackCard
 {
 	private String suit;
